@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+QzrQ06oj+JpF8eVrIJMVaCm86+25cxLd2MqRq62HuAf0qIZ4oRnovYatPU9dzDgqSLmnbkwiTJ/jFoL92I4zg==",
+  "dgSpecHash": "0jIJ209pvP0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\amori\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Samuel Hossain\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuel Hossain\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Samuel Hossain\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Samuel Hossain\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Samuel Hossain\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
