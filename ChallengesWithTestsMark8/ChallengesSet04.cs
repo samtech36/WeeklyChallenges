@@ -122,21 +122,20 @@ namespace ChallengesWithTestsMark8
         
         public int Factorial(int number)
         {
-            var fact = 1;
-
-            if (number == 0)
+            if (number < 0)
+            {
+                throw new ArgumentOutOfRangeException("Number must be non-negative.", nameof(number));
+            }
+            if (number == 0 || number == 1)
             {
                 return 1;
             }
-            return number * Factorial(number - 1);
-
-            for (int i = number; i > 0 ; i--)
+            int factorial = 1;
+            for(int i = 2; i <= number; i++)
             {
-                fact += i;
+                factorial *= i;
             }
-            
-            return fact;
-
+            return factorial;
         }
 
 
